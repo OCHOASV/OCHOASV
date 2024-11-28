@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Carlos Ochoa</h1>
-<h3 align="center">Ingeniero de Software radicado en Madrid, España</h3>
+<h1 align="center">I'm Carlos Ochoa</h1>
+<h3 align="center">Software Engineer - Madrid, España</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ochoasv&label=Profile%20views&color=0e75b6&style=flat" alt="ochoasv" /> </p>
 
@@ -9,7 +9,11 @@
 
 - 🌱 I’m currently learning **Laravel, Phyton, NodeJS**
 
+- 👨‍💻 All of my projects are available at [https://github.com/OCHOASV?tab=repositories](https://github.com/OCHOASV?tab=repositories)
+
 - 💬 Ask me about **PHP, CSS, HTML5, Diseño y Programación Web**
+
+- 📫 How to reach me **ochoasoftware.sv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
