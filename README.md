@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Laravel, Phyton, NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/OCHOASV?tab=repositories](https://github.com/OCHOASV?tab=repositories)
-
 - 💬 Ask me about **PHP, CSS, HTML5, Diseño y Programación Web**
 
 - 📫 How to reach me **ochoasoftware.sv@gmail.com**
