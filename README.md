@@ -14,6 +14,7 @@
 - 📫 How to reach me **ochoasoftware.sv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+##
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ochoasv) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/61369) 
 
 # 💻 Tech Stack:
