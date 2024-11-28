@@ -14,6 +14,11 @@
 - 📫 How to reach me **ochoasoftware.sv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ochoasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ochoasv" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/61369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="61369" height="30" width="40" /></a>
+</p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ochoasv) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/61369)
 
