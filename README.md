@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ochoasv" alt="ochoasv" /></a> </p>
 
-- 🔭 I’m currently working on **Davila Barrasa S.C.**
+- 🔭 I’m currently working on **OPEN TO WORK**
 
 - 🌱 I’m currently learning **Laravel, Phyton, NodeJS**
 
